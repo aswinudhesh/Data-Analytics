@@ -1,3 +1,12 @@
+#### 20-Nov-2024
+1) updated GitHub
+
+
+#### 18-Nocv-2024
+1) Working on mini project airport and airlines question
+2) 2) Please update this in meeting minutes. Thanks.
+
+
 #### 15-Nov-2024
 1) Update all mini-project respect to mini-project-1 powerlifting
 
