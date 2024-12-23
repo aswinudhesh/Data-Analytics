@@ -1,5 +1,3 @@
-##### 23-12-2024
-1) Today I completed mini-project_5
 #### 20-Nov-2024
 1) updated GitHub
 
